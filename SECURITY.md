@@ -17,5 +17,4 @@ Mac Clean is currently distributed outside the Mac App Store. Only download
 release builds from the official website or the official GitHub Releases page:
 
 - https://mac.wanan7.top
-- https://github.com/iFaNGMiNGi/Mac-Clean/releases/latest
-
+- https://github.com/iFaNGMiNGi/MacClean/releases/latest

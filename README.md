@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="macOS 13.3+" src="https://img.shields.io/badge/macOS-13.3%2B-111827?style=flat-square&logo=apple">
+  <img alt="macOS 14.2+" src="https://img.shields.io/badge/macOS-14.2%2B-111827?style=flat-square&logo=apple">
   <img alt="Download" src="https://img.shields.io/badge/Download-DMG-22c55e?style=flat-square">
   <img alt="Official" src="https://img.shields.io/badge/Official-Release-0ea5e9?style=flat-square">
 </p>
@@ -31,14 +31,15 @@ Download the latest DMG from:
 - Official website: https://mac.wanan7.top
 - GitHub Releases: https://github.com/iFaNGMiNGi/MacClean/releases/latest
 
-Requires macOS 13.3 or later.
+Requires macOS 14.2 or later.
 
 ## What It Does
 
 Mac Clean is a native macOS utility for cleaning and privacy moments:
 
 - lock keyboard, trackpad and mouse while cleaning your Mac;
-- cover all displays with a privacy screen while background tasks keep running;
+- cover all displays with Privacy Cover Pro while background tasks keep running;
+- use Display Standby Pro Beta to try power-saving standby for external displays;
 - run fullscreen display checks for dead pixels, light leak, gradients and contrast.
 
 ## Repository Scope
@@ -54,4 +55,3 @@ Only download Mac Clean from the official website or this official release repos
 ## License And Brand
 
 Mac Clean, its icon, screenshots, website, update feed and product identity are protected brand assets. See [TRADEMARK.md](TRADEMARK.md).
-
