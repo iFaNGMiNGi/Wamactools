@@ -5,7 +5,7 @@
 <h1 align="center">WaMacTools</h1>
 
 <p align="center">
-  Official downloads for macOS screen cleaning, keyboard cleaning, privacy cover and display test.
+  Official downloads for the WaMacTools macOS menu-bar toolbox.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img alt="Official" src="https://img.shields.io/badge/Official-Release-0ea5e9?style=flat-square">
 </p>
 
-![WaMacTools main window](assets/wamactools-main.png)
+![WaMacTools menu-bar toolbox](assets/wamactools-main.png)
 
 ## Download
 
@@ -35,12 +35,13 @@ Requires macOS 14.2 or later.
 
 ## What It Does
 
-WaMacTools is a native macOS utility for cleaning and privacy moments:
+WaMacTools is a native macOS menu-bar toolbox for cleaning, privacy, display checks, and everyday Mac workflows:
 
-- lock keyboard, trackpad and mouse while cleaning your Mac;
+- protect keyboard, trackpad and mouse input with Clean Lock and Keyboard Lock;
 - cover all displays with Privacy Cover Pro while background tasks keep running;
-- use Display Standby Pro Beta to try power-saving standby for external displays;
-- run fullscreen display checks for dead pixels, light leak, gradients and contrast.
+- run fullscreen checks for dead pixels, light leak, gradients and contrast;
+- try Display Standby Pro Beta for external-display standby;
+- use Bluetooth Unlock Pro, Sleep Timer, Network Quality, Background Apps, Finder right-click tools, Window Layout, Device Battery, Mouse Wheel and Downloads cleanup guard from the menu-bar panel.
 
 ## Repository Scope
 

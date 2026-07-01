@@ -5,7 +5,7 @@
 <h1 align="center">WaMacTools</h1>
 
 <p align="center">
-  macOS 擦屏锁定、键盘清洁、隐私遮罩与屏幕检测工具官方下载仓库。
+  WaMacTools macOS 菜单栏工具箱官方下载仓库。
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img alt="Official" src="https://img.shields.io/badge/Official-Release-0ea5e9?style=flat-square">
 </p>
 
-![WaMacTools 主界面](assets/wamactools-main.png)
+![WaMacTools 菜单栏工具箱](assets/wamactools-main.png)
 
 ## 下载
 
@@ -35,12 +35,13 @@
 
 ## 功能
 
-WaMacTools 是原生 macOS 小工具，适合清洁和临时隐私保护场景：
+WaMacTools 是原生 macOS 菜单栏工具箱，适合清洁、临时隐私保护、屏幕检测和日常 Mac 工具场景：
 
-- 清洁 Mac 时锁定键盘、触控板和鼠标；
+- 用清洁锁定和键盘锁定保护键盘、触控板和鼠标输入；
 - 用隐私遮罩 Pro 盖住所有显示器，同时让后台任务继续运行；
+- 全屏检测坏点、漏光、色阶、渐变和对比度；
 - 用副屏待机 Pro Beta 让外接显示器尝试进入省电待机；
-- 全屏检测坏点、漏光、色阶、渐变和对比度。
+- 从菜单栏面板使用蓝牙解锁 Pro、睡眠定时、网络质量、后台软件、Finder 右键、窗口整理、设备电量、鼠标滚轮和下载清空保护。
 
 ## 仓库范围
 
